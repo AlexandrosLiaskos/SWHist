@@ -4,13 +4,13 @@
 
 # Table of Contents
 
-#### 1. [Ada Lovelace: The Progenitor of Programming](#ada-lovelace-the-progenitor-of-programming)
+#### - [Ada Lovelace: The Progenitor of Programming](#ada-lovelace-the-progenitor-of-programming)
    
-#### 2. [Grace Hopper: The Revolutionary Behind Computer Programming Languages](#grace-hopper-the-revolutionary-behind-computer-programming-languages)
+#### - [Grace Hopper: The Revolutionary Behind Computer Programming Languages](#grace-hopper-the-revolutionary-behind-computer-programming-languages)
    
-#### 3. [Alan Turing: The Architect of Modern Computing](#alan-turing-the-architect-of-modern-computing)
+#### - [Alan Turing: The Architect of Modern Computing](#alan-turing-the-architect-of-modern-computing)
    
-#### 4. [The Tale of the Creeper and the Reaper: The Dawn of Computer Viruses](#the-tale-of-the-creeper-and-the-reaper-the-dawn-of-computer-viruses)
+#### - [The Tale of the Creeper and the Reaper: The Dawn of Computer Viruses](#the-tale-of-the-creeper-and-the-reaper-the-dawn-of-computer-viruses)
    
 #### 5. [The Dawn of the Internet: Connecting the World](#the-dawn-of-the-internet-connecting-the-world)
     
