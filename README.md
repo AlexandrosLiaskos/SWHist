@@ -32,6 +32,8 @@
   </tr>
 </table>
 
+![image](https://github.com/AlexandrosLiaskos/Software_Innovators/assets/128935863/c8aae4c8-4095-430b-ad48-3450c5e27a94)
+
 # Ada Lovelace: The Progenitor of Programming
 
 Ada Lovelace, born Augusta Ada Byron in 1815, is heralded as the first computer programmer, a visionary who conceptualized the principles of programming over a century before the advent of electronic computers.
