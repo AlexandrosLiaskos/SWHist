@@ -60,7 +60,7 @@ Ada foresaw the Analytical Engine's capabilities extending beyond mere number cr
 
 Ada Lovelace's contributions were not fully appreciated during her lifetime, but her visionary insights laid the foundational principles of computing and programming. Today, Ada is celebrated as a pioneering figure in the history of computer science, and her legacy is honored through various awards and initiatives promoting women in STEM fields.
 
-////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 # Grace Hopper: The Revolutionary Behind Computer Programming Languages
 
