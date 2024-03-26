@@ -15,7 +15,7 @@
         <li><a href="#tim-berners-lee-and-the-creation-of-the-world-wide-web">Tim Berners-Lee and the Creation of the World Wide Web</a></li>
         <li><a href="#git-revolutionizing-software-development">Git: Revolutionizing Software Development</a></li>
         <li><a href="#agile-software-development-a-paradigm-shift">Agile Software Development: A Paradigm Shift</a></li>
-        <li></li>
+        <a></a>
         </ul>
     </td>
     <td align="right" valign="top">
