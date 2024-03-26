@@ -3,8 +3,8 @@
     <td colspan="2" align="center"><h3>Software Innovations</h3></td>
   </tr>
 <tr>
-    <td valign="top">
-      <h2>                 Table of Contents</h2>
+    <td valign="top" align="center">
+      <h2>Table of Contents</h2>
       <ul>
         
 <a href="#ada-lovelace-the-progenitor-of-programming">Ada Lovelace: The Progenitor of Programming</a>
