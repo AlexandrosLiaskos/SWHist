@@ -4,7 +4,7 @@
 
 # Table of Contents
 
-# [Ada Lovelace: The Progenitor of Programming](#ada-lovelace-the-progenitor-of-programming)
+# 1. [Ada Lovelace: The Progenitor of Programming](#ada-lovelace-the-progenitor-of-programming)
    
 2. [Grace Hopper: The Revolutionary Behind Computer Programming Languages](#grace-hopper-the-revolutionary-behind-computer-programming-languages)
    
