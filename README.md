@@ -1,7 +1,8 @@
 <table>
   <tr>
     <td>
-      <p> # Table of Contents
+      <p> 
+# Table of Contents
 
 - [Ada Lovelace: The Progenitor of Programming](#ada-lovelace-the-progenitor-of-programming)
    
