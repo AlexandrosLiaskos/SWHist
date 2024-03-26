@@ -32,8 +32,7 @@
   </tr>
 </table>
 
-![toppng com-line-dividers-png-2665x204](https://github.com/AlexandrosLiaskos/Software_Innovators/assets/128935863/def077a0-3922-4a50-b7a5-89102447a92d)
-
+![KegO](https://github.com/AlexandrosLiaskos/Software_Innovators/assets/128935863/6dfb83a8-14ea-4b30-846f-919bfe7b29b8)
 
 # Ada Lovelace: The Progenitor of Programming
 
