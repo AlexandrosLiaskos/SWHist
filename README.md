@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td colspan="2" align="center"><h2>Software Innovations</h2></td>
+    <td colspan="2" align="center">Software Innovations</td>
   </tr>
   <tr>
     <td valign="top">
