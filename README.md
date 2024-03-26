@@ -1,4 +1,4 @@
-<h1 align="center"> Software Innovations </h1>
+# Software Innovations
 <table>
   <tr>
     <td>
