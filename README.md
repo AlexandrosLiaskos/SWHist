@@ -2,7 +2,7 @@
   <tr>
     <td>
       <p> 
- <h2 style="text-align: center; text-decoration: underline;">Table of Contents</h2>
+ <h2 style="align: center; text-decoration: underline;">Table of Contents</h2>
       <p>
         
 - [Ada Lovelace: The Progenitor of Programming](#ada-lovelace-the-progenitor-of-programming)
