@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td colspan="2" align="center"> <h2> Software Innovations </h2> </td>
+    <td colspan="2" align="center">Software Innovations</td>
   </tr>
 <tr>
     <td valign="top">
@@ -15,7 +15,7 @@
         <li><a href="#tim-berners-lee-and-the-creation-of-the-world-wide-web">Tim Berners-Lee and the Creation of the World Wide Web</a></li>
         <li><a href="#git-revolutionizing-software-development">Git: Revolutionizing Software Development</a></li>
         <li><a href="#agile-software-development-a-paradigm-shift">Agile Software Development: A Paradigm Shift</a></li>
-      </ul>
+        </ul>
     </td>
     <td align="right" valign="top">
       <img src="https://github.com/AlexandrosLiaskos/Software_Innovators/assets/128935863/684bfbcd-bce9-411b-9ca5-b2df0e3a1ecf" width="300px">
