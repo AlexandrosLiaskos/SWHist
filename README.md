@@ -1,8 +1,7 @@
-<p align="right">
-<img src="https://github.com/AlexandrosLiaskos/Software_Innovators/assets/128935863/684bfbcd-bce9-411b-9ca5-b2df0e3a1ecf" width=300px>
-</p>
-
-# Table of Contents
+<table>
+  <tr>
+    <td>
+      <p> # Table of Contents
 
 - [Ada Lovelace: The Progenitor of Programming](#ada-lovelace-the-progenitor-of-programming)
    
@@ -20,7 +19,14 @@
     
 - [Git: Revolutionizing Software Development](#git-revolutionizing-software-development)
     
-- [Agile Software Development: A Paradigm Shift](#agile-software-development-a-paradigm-shift)
+- [Agile Software Development: A Paradigm Shift](#agile-software-development-a-paradigm-shift)</p>
+    </td>
+    <td align="right">
+      <img src="https://github.com/AlexandrosLiaskos/Software_Innovators/assets/128935863/684bfbcd-bce9-411b-9ca5-b2df0e3a1ecf" width="300px">
+    </td>
+  </tr>
+</table>
+
 
 # Ada Lovelace: The Progenitor of Programming
 
