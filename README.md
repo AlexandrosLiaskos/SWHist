@@ -6,16 +6,25 @@
     <td valign="top">
       <h2>Table of Contents</h2>
       <ul>
-        <a href="#ada-lovelace-the-progenitor-of-programming">Ada Lovelace: The Progenitor of Programming</a>
-        <a href="#grace-hopper-the-revolutionary-behind-computer-programming-languages">Grace Hopper: The Revolutionary Behind Computer Programming Languages</a>
-        <a href="#alan-turing-the-architect-of-modern-computing">Alan Turing: The Architect of Modern Computing</a>
-        <a href="#the-tale-of-the-creeper-and-the-reaper-the-dawn-of-computer-viruses">The Tale of the Creeper and the Reaper: The Dawn of Computer Viruses</a>
-        <a href="#the-dawn-of-the-internet-connecting-the-world">The Dawn of the Internet: Connecting the World</a>
-        <a href="#linus-torvalds-and-the-creation-of-linux">Linus Torvalds and the Creation of Linux</a>
-        <a href="#tim-berners-lee-and-the-creation-of-the-world-wide-web">Tim Berners-Lee and the Creation of the World Wide Web</a>
-        <a href="#git-revolutionizing-software-development">Git: Revolutionizing Software Development</a>
-        <a href="#agile-software-development-a-paradigm-shift">Agile Software Development: A Paradigm Shift</a>
-        </ul>
+<a href="#ada-lovelace-the-progenitor-of-programming">Ada Lovelace: The Progenitor of Programming</a>
+        
+<a href="#grace-hopper-the-revolutionary-behind-computer-programming-languages">Grace Hopper: The Revolutionary Behind Computer Programming Languages</a>
+        
+<a href="#alan-turing-the-architect-of-modern-computing">Alan Turing: The Architect of Modern Computing</a>
+        
+<a href="#the-tale-of-the-creeper-and-the-reaper-the-dawn-of-computer-viruses">The Tale of the Creeper and the Reaper: The Dawn of Computer Viruses</a>
+
+<a href="#the-dawn-of-the-internet-connecting-the-world">The Dawn of the Internet: Connecting the World</a>
+
+<a href="#linus-torvalds-and-the-creation-of-linux">Linus Torvalds and the Creation of Linux</a>
+
+<a href="#tim-berners-lee-and-the-creation-of-the-world-wide-web">Tim Berners-Lee and the Creation of the World Wide Web</a>
+
+<a href="#git-revolutionizing-software-development">Git: Revolutionizing Software Development</a>
+
+<a href="#agile-software-development-a-paradigm-shift">Agile Software Development: A Paradigm Shift</a>
+
+   </ul>
     </td>
     <td align="right" valign="top">
       <img src="https://github.com/AlexandrosLiaskos/Software_Innovators/assets/128935863/684bfbcd-bce9-411b-9ca5-b2df0e3a1ecf" width="300px">
