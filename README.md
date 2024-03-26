@@ -3,7 +3,7 @@
   </tr>
 <tr>
     <td valign="top">
-      <h3 align="center">Software Innovations</h3>
+      <h1 align="center">Software Innovations</h1>
       <ul>
         
 <a href="#ada-lovelace-the-progenitor-of-programming">Ada Lovelace: The Progenitor of Programming</a>
