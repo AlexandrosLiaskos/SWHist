@@ -4,23 +4,23 @@
 
 # Table of Contents
 
-# 1. [Ada Lovelace: The Progenitor of Programming](#ada-lovelace-the-progenitor-of-programming)
+## 1. [Ada Lovelace: The Progenitor of Programming](#ada-lovelace-the-progenitor-of-programming)
    
-2. [Grace Hopper: The Revolutionary Behind Computer Programming Languages](#grace-hopper-the-revolutionary-behind-computer-programming-languages)
+## 2. [Grace Hopper: The Revolutionary Behind Computer Programming Languages](#grace-hopper-the-revolutionary-behind-computer-programming-languages)
    
-3. [Alan Turing: The Architect of Modern Computing](#alan-turing-the-architect-of-modern-computing)
+## 3. [Alan Turing: The Architect of Modern Computing](#alan-turing-the-architect-of-modern-computing)
    
-4. [The Tale of the Creeper and the Reaper: The Dawn of Computer Viruses](#the-tale-of-the-creeper-and-the-reaper-the-dawn-of-computer-viruses)
+## 4. [The Tale of the Creeper and the Reaper: The Dawn of Computer Viruses](#the-tale-of-the-creeper-and-the-reaper-the-dawn-of-computer-viruses)
    
-5. [The Dawn of the Internet: Connecting the World](#the-dawn-of-the-internet-connecting-the-world)
+## 5. [The Dawn of the Internet: Connecting the World](#the-dawn-of-the-internet-connecting-the-world)
     
-6. [Linus Torvalds and the Creation of Linux](#linus-torvalds-and-the-creation-of-linux)
+## 6. [Linus Torvalds and the Creation of Linux](#linus-torvalds-and-the-creation-of-linux)
     
-7. [Tim Berners-Lee and the Creation of the World Wide Web](#tim-berners-lee-and-the-creation-of-the-world-wide-web)
+## 7. [Tim Berners-Lee and the Creation of the World Wide Web](#tim-berners-lee-and-the-creation-of-the-world-wide-web)
     
-8. [Git: Revolutionizing Software Development](#git-revolutionizing-software-development)
+## 8. [Git: Revolutionizing Software Development](#git-revolutionizing-software-development)
     
-9. [Agile Software Development: A Paradigm Shift](#agile-software-development-a-paradigm-shift)
+## 9. [Agile Software Development: A Paradigm Shift](#agile-software-development-a-paradigm-shift)
 
 # Ada Lovelace: The Progenitor of Programming
 
