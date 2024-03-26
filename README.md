@@ -26,7 +26,7 @@
 
    </ul>
     </td>
-    <td align="right" valign="top">
+    <td align="right" valign="center">
       <img src="https://github.com/AlexandrosLiaskos/Software_Innovators/assets/128935863/684bfbcd-bce9-411b-9ca5-b2df0e3a1ecf" width="300px">
     </td>
   </tr>
