@@ -4,7 +4,7 @@
   </tr>
 <tr>
     <td valign="top">
-      <h2>Table of Contents</h2>
+      <h3>Table of Contents</h3>
       <ul>
         
 <a href="#ada-lovelace-the-progenitor-of-programming">Ada Lovelace: The Progenitor of Programming</a>
