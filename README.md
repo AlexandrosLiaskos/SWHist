@@ -1,9 +1,9 @@
-# Table of Contents
 <table>
   <tr>
     <td>
       <p> 
-
+ <h2 style="text-align: center; text-decoration: underline;">Table of Contents</h2>
+      <p>
 - [Ada Lovelace: The Progenitor of Programming](#ada-lovelace-the-progenitor-of-programming)
    
 - [Grace Hopper: The Revolutionary Behind Computer Programming Languages](#grace-hopper-the-revolutionary-behind-computer-programming-languages)
