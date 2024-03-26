@@ -24,7 +24,6 @@
 
 <li><a href="#agile-software-development-a-paradigm-shift">Agile Software Development: A Paradigm Shift</a></li>
 
-
    </ol>
     </td>
     <td align="right" valign="center">
