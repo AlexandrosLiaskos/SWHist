@@ -5,23 +5,23 @@
  <h2 align="left">Table of Contents</h2>
       <p>
         
-- [Ada Lovelace: The Progenitor of Programming](#ada-lovelace-the-progenitor-of-programming)
+[Ada Lovelace: The Progenitor of Programming](#ada-lovelace-the-progenitor-of-programming)
    
-- [Grace Hopper: The Revolutionary Behind Computer Programming Languages](#grace-hopper-the-revolutionary-behind-computer-programming-languages)
+[Grace Hopper: The Revolutionary Behind Computer Programming Languages](#grace-hopper-the-revolutionary-behind-computer-programming-languages)
    
-- [Alan Turing: The Architect of Modern Computing](#alan-turing-the-architect-of-modern-computing)
+[Alan Turing: The Architect of Modern Computing](#alan-turing-the-architect-of-modern-computing)
    
-- [The Tale of the Creeper and the Reaper: The Dawn of Computer Viruses](#the-tale-of-the-creeper-and-the-reaper-the-dawn-of-computer-viruses)
+[The Tale of the Creeper and the Reaper: The Dawn of Computer Viruses](#the-tale-of-the-creeper-and-the-reaper-the-dawn-of-computer-viruses)
    
-- [The Dawn of the Internet: Connecting the World](#the-dawn-of-the-internet-connecting-the-world)
+[The Dawn of the Internet: Connecting the World](#the-dawn-of-the-internet-connecting-the-world)
     
-- [Linus Torvalds and the Creation of Linux](#linus-torvalds-and-the-creation-of-linux)
+[Linus Torvalds and the Creation of Linux](#linus-torvalds-and-the-creation-of-linux)
     
-- [Tim Berners-Lee and the Creation of the World Wide Web](#tim-berners-lee-and-the-creation-of-the-world-wide-web)
+[Tim Berners-Lee and the Creation of the World Wide Web](#tim-berners-lee-and-the-creation-of-the-world-wide-web)
     
-- [Git: Revolutionizing Software Development](#git-revolutionizing-software-development)
+[Git: Revolutionizing Software Development](#git-revolutionizing-software-development)
     
-- [Agile Software Development: A Paradigm Shift](#agile-software-development-a-paradigm-shift)</p>
+[Agile Software Development: A Paradigm Shift](#agile-software-development-a-paradigm-shift)</p>
     </td>
     <td align="right">
       <img src="https://github.com/AlexandrosLiaskos/Software_Innovators/assets/128935863/684bfbcd-bce9-411b-9ca5-b2df0e3a1ecf" width="300px">
