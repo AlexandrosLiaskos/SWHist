@@ -6,6 +6,7 @@
     <td valign="top">
       <h2>Table of Contents</h2>
       <ul>
+        
 <a href="#ada-lovelace-the-progenitor-of-programming">Ada Lovelace: The Progenitor of Programming</a>
         
 <a href="#grace-hopper-the-revolutionary-behind-computer-programming-languages">Grace Hopper: The Revolutionary Behind Computer Programming Languages</a>
