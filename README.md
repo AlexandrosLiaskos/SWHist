@@ -2,7 +2,7 @@
   <tr>
   </tr>
 <tr>
-    <td valign="top">
+    <td valign="center">
       <h1 align="center">Software Innovations</h1>
       <ul>
         
