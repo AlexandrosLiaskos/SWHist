@@ -88,7 +88,7 @@ Beyond her technical achievements, Hopper was a tireless advocate for education 
 
 Grace Hopper's legacy is celebrated through numerous awards and honors, including the annual Grace Hopper Celebration of Women in Computing. Her work continues to inspire computer scientists worldwide, reminding us of the transformative power of technology and the importance of making it accessible to a broader audience.
 
-![mountain-lake-minimalist-wallpaper-2880x1080_89](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/dfd8bd00-84d2-4d7d-b9ba-c1829c0bf118)
+
 
 # Alan Turing: The Architect of Modern Computing
 
@@ -205,7 +205,8 @@ From those modest beginnings, Linux has grown exponentially. It's now the backbo
 
 The creation of Linux by Linus Torvalds and its subsequent evolution is a testament to the power of open-source software. It demonstrates how a project, started by an individual with a vision, can grow into something that powers much of the modern world's technology. Linux's success has also spurred the growth of open-source culture, influencing countless other projects.
 
-![CodingSitesHeader-1](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/4c001f52-2ebd-45e9-b5fd-6ffeb51db516)
+![anime-boy-and-his-car-m4-3440x1440](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/2f8099d5-a0e0-4e9e-abfb-8f5eff63a81e)
+
 
 # Tim Berners-Lee and the Creation of the World Wide Web
 
@@ -237,7 +238,8 @@ The World Wide Web has fundamentally changed how we live, enabling new forms of 
 
 Tim Berners-Lee continues to advocate for the Web as a free and open resource. He founded the World Wide Web Consortium (W3C) to lead the Web to its full potential and has been a vocal advocate for net neutrality, privacy, and the Web as a right.
 
-![desktop-wallpaper-minimalist-ultra-wide-aesthetic-ultrawide](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/42a3182e-0351-4318-9ba9-362566e2161d)
+![the-lightning-feel-ti-3440x1440](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/b99b7967-4941-474b-96b6-cdadb5d62970)
+
 
 # Git: Revolutionizing Software Development
 
