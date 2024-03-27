@@ -1,4 +1,5 @@
-![SWHist Banner](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f49d62ba-93eb-4c13-95d4-f791a0744925)
+![ethereal-elegance-jellyfish-anime-spectacle-jd-3440x1440](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/adf02b2d-af88-4ca0-b08a-db4f143a146f)
+
 
 <table>
   <tr>
@@ -88,6 +89,7 @@ Beyond her technical achievements, Hopper was a tireless advocate for education 
 
 Grace Hopper's legacy is celebrated through numerous awards and honors, including the annual Grace Hopper Celebration of Women in Computing. Her work continues to inspire computer scientists worldwide, reminding us of the transformative power of technology and the importance of making it accessible to a broader audience.
 
+![anime-road-to-city-everlasting-summer-4k-ep-3440x1440](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/cb609f75-b106-4e06-9507-2607331bba4e)
 
 
 # Alan Turing: The Architect of Modern Computing
@@ -145,7 +147,8 @@ The story of the Creeper and the Reaper offers several key insights:
 
 The tale of the Creeper and the Reaper marks a pivotal moment in computer science, emphasizing the dual-edged sword of technological innovation and the importance of ethical considerations and security in software development.
 
-![desktop-wallpaper-32-9](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/42c38879-a7cd-4a7b-a000-6f6243de856e)
+![undefined - Imgur](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/7fd34c15-39e8-4caa-a16e-b834b5fc26a9)
+
 
 # The Dawn of the Internet: Connecting the World
 
