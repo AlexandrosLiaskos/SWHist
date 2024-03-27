@@ -88,7 +88,7 @@ Beyond her technical achievements, Hopper was a tireless advocate for education 
 
 Grace Hopper's legacy is celebrated through numerous awards and honors, including the annual Grace Hopper Celebration of Women in Computing. Her work continues to inspire computer scientists worldwide, reminding us of the transformative power of technology and the importance of making it accessible to a broader audience.
 
-![8bit_ultrawide_mountain_scene_wallpaper_by_nevereverevr_dfygwen-fullview](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f49d62ba-93eb-4c13-95d4-f791a0744925)
+![Uploading 3440x1440-anime-wallpaper-15.jpg…]()
 
 # Alan Turing: The Architect of Modern Computing
 
@@ -114,8 +114,7 @@ Despite his contributions, Turing faced persecution for his homosexuality, a tra
 
 Alan Turing's vision and intellect not only helped to shape the outcome of a world war but also laid the foundations for the development of the computer and raised fundamental questions about artificial intelligence that challenge and inspire us to this day.
 
-
-![mountain-lake-minimalist-wallpaper-2880x1080_89](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/dfd8bd00-84d2-4d7d-b9ba-c1829c0bf118)
+![Uploading 3440x1440-anime-wallpaper-45.jpg…]()
 
 # The Tale of the Creeper and the Reaper: The Dawn of Computer Viruses
 
