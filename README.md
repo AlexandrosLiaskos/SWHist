@@ -1,6 +1,3 @@
-![ethereal-elegance-jellyfish-anime-spectacle-jd-3440x1440](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/adf02b2d-af88-4ca0-b08a-db4f143a146f)
-
-
 <table>
   <tr>
   </tr>
@@ -34,6 +31,8 @@
     </td>
   </tr>
 </table>
+
+![ethereal-elegance-jellyfish-anime-spectacle-jd-3440x1440](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/adf02b2d-af88-4ca0-b08a-db4f143a146f)
 
 # Ada Lovelace: The Progenitor of Programming
 
