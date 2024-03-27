@@ -2,7 +2,7 @@
   <tr>
   </tr>
 <tr>
-    <td valign="center">
+    <td valign="top">
       <h2 align="center">Software History</h2>
       <ol>
                 
