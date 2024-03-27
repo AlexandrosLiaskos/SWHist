@@ -88,7 +88,7 @@ Beyond her technical achievements, Hopper was a tireless advocate for education 
 
 Grace Hopper's legacy is celebrated through numerous awards and honors, including the annual Grace Hopper Celebration of Women in Computing. Her work continues to inspire computer scientists worldwide, reminding us of the transformative power of technology and the importance of making it accessible to a broader audience.
 
-![Uploading 3440x1440-anime-wallpaper-15.jpg…]()
+![Uploading 3440x1440-anime-wallpaper-45.jpg…]()
 
 # Alan Turing: The Architect of Modern Computing
 
