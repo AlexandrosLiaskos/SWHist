@@ -1,4 +1,4 @@
-![SWHist Banner](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f49d62ba-93eb-4c13-95d4-f791a0744925)
+![3440x1440-anime-wallpaper-15](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/8127bc37-a8be-4c59-9b49-c1b86c66a37e)![SWHist Banner](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f49d62ba-93eb-4c13-95d4-f791a0744925)
 
 <table>
   <tr>
@@ -88,7 +88,8 @@ Beyond her technical achievements, Hopper was a tireless advocate for education 
 
 Grace Hopper's legacy is celebrated through numerous awards and honors, including the annual Grace Hopper Celebration of Women in Computing. Her work continues to inspire computer scientists worldwide, reminding us of the transformative power of technology and the importance of making it accessible to a broader audience.
 
-![Uploading 3440x1440-anime-wallpaper-45.jpg…]()
+![3440x1440-anime-wallpaper-15](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/3e4adfd6-9713-4993-a510-7694e3e0ba15)
+
 
 # Alan Turing: The Architect of Modern Computing
 
@@ -114,7 +115,8 @@ Despite his contributions, Turing faced persecution for his homosexuality, a tra
 
 Alan Turing's vision and intellect not only helped to shape the outcome of a world war but also laid the foundations for the development of the computer and raised fundamental questions about artificial intelligence that challenge and inspire us to this day.
 
-![Uploading 3440x1440-anime-wallpaper-45.jpg…]()
+![3440x1440-anime-wallpaper-45](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/f46d8082-8f1f-43c6-9270-6076b0139bbe)
+
 
 # The Tale of the Creeper and the Reaper: The Dawn of Computer Viruses
 
@@ -145,7 +147,7 @@ The story of the Creeper and the Reaper offers several key insights:
 
 The tale of the Creeper and the Reaper marks a pivotal moment in computer science, emphasizing the dual-edged sword of technological innovation and the importance of ethical considerations and security in software development.
 
-![8bit_ultrawide_mountain_scene_wallpaper_by_nevereverevr_dfygwen-fullview](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f49d62ba-93eb-4c13-95d4-f791a0744925)
+![desktop-wallpaper-32-9](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/42c38879-a7cd-4a7b-a000-6f6243de856e)
 
 # The Dawn of the Internet: Connecting the World
 
