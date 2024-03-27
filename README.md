@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-![mountain-lake-minimalist-wallpaper-2880x1080_89](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/dfd8bd00-84d2-4d7d-b9ba-c1829c0bf118)
+![97-978938_ultrawide-landscape-wallpaper-4k](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f67b2fb2-7115-46d5-b9ed-c7b6a5a00bba)
 
 # Ada Lovelace: The Progenitor of Programming
 
@@ -64,7 +64,7 @@ Ada foresaw the Analytical Engine's capabilities extending beyond mere number cr
 
 Ada Lovelace's contributions were not fully appreciated during her lifetime, but her visionary insights laid the foundational principles of computing and programming. Today, Ada is celebrated as a pioneering figure in the history of computer science, and her legacy is honored through various awards and initiatives promoting women in STEM fields.
 
-![97-978938_ultrawide-landscape-wallpaper-4k](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f67b2fb2-7115-46d5-b9ed-c7b6a5a00bba)
+![mountain-lake-minimalist-wallpaper-2880x1080_89](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/dfd8bd00-84d2-4d7d-b9ba-c1829c0bf118)
 
 # Grace Hopper: The Revolutionary Behind Computer Programming Languages
 
