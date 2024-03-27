@@ -34,10 +34,6 @@
 
 ![mountain-lake-minimalist-wallpaper-2880x1080_89](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/dfd8bd00-84d2-4d7d-b9ba-c1829c0bf118)
 
-![97-978938_ultrawide-landscape-wallpaper-4k](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f67b2fb2-7115-46d5-b9ed-c7b6a5a00bba)
-
-![8bit_ultrawide_mountain_scene_wallpaper_by_nevereverevr_dfygwen-fullview](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f49d62ba-93eb-4c13-95d4-f791a0744925)
-
 # Ada Lovelace: The Progenitor of Programming
 
 Ada Lovelace, born Augusta Ada Byron in 1815, is heralded as the first computer programmer, a visionary who conceptualized the principles of programming over a century before the advent of electronic computers.
@@ -66,6 +62,8 @@ Ada foresaw the Analytical Engine's capabilities extending beyond mere number cr
 
 Ada Lovelace's contributions were not fully appreciated during her lifetime, but her visionary insights laid the foundational principles of computing and programming. Today, Ada is celebrated as a pioneering figure in the history of computer science, and her legacy is honored through various awards and initiatives promoting women in STEM fields.
 
+![97-978938_ultrawide-landscape-wallpaper-4k](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f67b2fb2-7115-46d5-b9ed-c7b6a5a00bba)
+
 # Grace Hopper: The Revolutionary Behind Computer Programming Languages
 
 Rear Admiral Grace Murray Hopper, a visionary in the field of computer science, played a pivotal role in the development of programming languages that transformed technology and paved the way for modern computing.
@@ -90,6 +88,8 @@ Beyond her technical achievements, Hopper was a tireless advocate for education 
 
 Grace Hopper's legacy is celebrated through numerous awards and honors, including the annual Grace Hopper Celebration of Women in Computing. Her work continues to inspire computer scientists worldwide, reminding us of the transformative power of technology and the importance of making it accessible to a broader audience.
 
+![8bit_ultrawide_mountain_scene_wallpaper_by_nevereverevr_dfygwen-fullview](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f49d62ba-93eb-4c13-95d4-f791a0744925)
+
 # Alan Turing: The Architect of Modern Computing
 
 Alan Turing's groundbreaking contributions to the field of computer science have cemented his legacy as one of the most influential thinkers of the 20th century. His work laid the foundational principles of modern computing and posed questions about artificial intelligence that still resonate today.
@@ -113,6 +113,9 @@ Despite his contributions, Turing faced persecution for his homosexuality, a tra
 #### A Lasting Impact
 
 Alan Turing's vision and intellect not only helped to shape the outcome of a world war but also laid the foundations for the development of the computer and raised fundamental questions about artificial intelligence that challenge and inspire us to this day.
+
+
+![mountain-lake-minimalist-wallpaper-2880x1080_89](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/dfd8bd00-84d2-4d7d-b9ba-c1829c0bf118)
 
 # The Tale of the Creeper and the Reaper: The Dawn of Computer Viruses
 
@@ -143,6 +146,8 @@ The story of the Creeper and the Reaper offers several key insights:
 
 The tale of the Creeper and the Reaper marks a pivotal moment in computer science, emphasizing the dual-edged sword of technological innovation and the importance of ethical considerations and security in software development.
 
+![8bit_ultrawide_mountain_scene_wallpaper_by_nevereverevr_dfygwen-fullview](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f49d62ba-93eb-4c13-95d4-f791a0744925)
+
 # The Dawn of the Internet: Connecting the World
 
 The Internet's origins can be traced back to the late 1960s, born from a desire to share information rapidly and efficiently between distant computers. This groundbreaking network, initially a project of the Advanced Research Projects Agency Network (ARPANET), evolved into the global communication behemoth we know today.
@@ -171,6 +176,8 @@ The Internet underwent rapid expansion in the 1990s, transforming from a special
 
 Today, the Internet is a critical communication tool, a vast storehouse of knowledge, and a dynamic marketplace. Its evolution from ARPANET to the comprehensive digital ecosystem we depend on underscores the power of innovation and collaboration.
 
+![97-978938_ultrawide-landscape-wallpaper-4k](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f67b2fb2-7115-46d5-b9ed-c7b6a5a00bba)
+
 # Linus Torvalds and the Creation of Linux
 
 In 1991, a Finnish computer science student named Linus Torvalds embarked on a personal project that would eventually become one of the most influential pieces of software in the world: the Linux kernel.
@@ -198,6 +205,8 @@ From those modest beginnings, Linux has grown exponentially. It's now the backbo
 #### Impact and Legacy
 
 The creation of Linux by Linus Torvalds and its subsequent evolution is a testament to the power of open-source software. It demonstrates how a project, started by an individual with a vision, can grow into something that powers much of the modern world's technology. Linux's success has also spurred the growth of open-source culture, influencing countless other projects.
+
+![mountain-lake-minimalist-wallpaper-2880x1080_89](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/dfd8bd00-84d2-4d7d-b9ba-c1829c0bf118)
 
 # Tim Berners-Lee and the Creation of the World Wide Web
 
@@ -229,6 +238,8 @@ The World Wide Web has fundamentally changed how we live, enabling new forms of 
 
 Tim Berners-Lee continues to advocate for the Web as a free and open resource. He founded the World Wide Web Consortium (W3C) to lead the Web to its full potential and has been a vocal advocate for net neutrality, privacy, and the Web as a right.
 
+![97-978938_ultrawide-landscape-wallpaper-4k](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f67b2fb2-7115-46d5-b9ed-c7b6a5a00bba)
+
 # Git: Revolutionizing Software Development
 
 The creation of Git marks a turning point in the world of software development, offering a powerful tool for version control, collaboration, and code management. Initiated by Linus Torvalds in 2005, Git's development was driven by the need for a distributed version control system that could support the development of the Linux kernel with efficiency and speed.
@@ -258,6 +269,8 @@ The launch of GitHub in 2008 further cemented Git's position as the backbone of 
 #### Legacy and Future
 
 Today, Git is more than just a tool; it's an integral part of the software development workflow. It has enabled a culture of collaboration and sharing in the development community, leading to the rapid evolution of software projects. As technology advances, Git continues to evolve, adapting to the needs of developers and the industry.
+
+![8bit_ultrawide_mountain_scene_wallpaper_by_nevereverevr_dfygwen-fullview](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f49d62ba-93eb-4c13-95d4-f791a0744925)
 
 # Agile Software Development: A Paradigm Shift
 
@@ -289,6 +302,6 @@ Agile methodologies have profoundly impacted the software development industry. 
 
 Several specific methodologies fall under the Agile umbrella, including Scrum, Kanban, Extreme Programming (XP), and Lean Software Development, each with its own set of practices and emphasis, but all adhering to the core principles of Agile.
 
-### Looking Forward
+#### Looking Forward
 
 As technology and market demands continue to evolve, Agile methodologies remain at the forefront of software development practices. They embody the recognition that in a fast-paced, ever-changing digital landscape, adaptability and responsiveness are key to success.
