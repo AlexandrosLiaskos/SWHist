@@ -27,7 +27,7 @@
    </ol>
     </td>
     <td align="right" valign="center">
-      <img src="https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/4bf6c95f-fc6a-4e4a-b853-c3b35d717642" width="300px">
+      <img src="https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/ec992561-3b8b-4aef-bfb3-5d8bb3da79cd" width="300px">
     </td>
   </tr>
 </table>
