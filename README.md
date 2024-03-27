@@ -1,4 +1,4 @@
-![3440x1440-anime-wallpaper-15](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/8127bc37-a8be-4c59-9b49-c1b86c66a37e)![SWHist Banner](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f49d62ba-93eb-4c13-95d4-f791a0744925)
+![SWHist Banner](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f49d62ba-93eb-4c13-95d4-f791a0744925)
 
 <table>
   <tr>
@@ -177,7 +177,7 @@ The Internet underwent rapid expansion in the 1990s, transforming from a special
 
 Today, the Internet is a critical communication tool, a vast storehouse of knowledge, and a dynamic marketplace. Its evolution from ARPANET to the comprehensive digital ecosystem we depend on underscores the power of innovation and collaboration.
 
-![97-978938_ultrawide-landscape-wallpaper-4k](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f67b2fb2-7115-46d5-b9ed-c7b6a5a00bba)
+![3440x1440-anime-wallpaper-39](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/49c8a82a-9f42-43f3-bd29-1cb479d04ee9)
 
 # Linus Torvalds and the Creation of Linux
 
@@ -207,7 +207,7 @@ From those modest beginnings, Linux has grown exponentially. It's now the backbo
 
 The creation of Linux by Linus Torvalds and its subsequent evolution is a testament to the power of open-source software. It demonstrates how a project, started by an individual with a vision, can grow into something that powers much of the modern world's technology. Linux's success has also spurred the growth of open-source culture, influencing countless other projects.
 
-![mountain-lake-minimalist-wallpaper-2880x1080_89](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/dfd8bd00-84d2-4d7d-b9ba-c1829c0bf118)
+![CodingSitesHeader-1](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/4c001f52-2ebd-45e9-b5fd-6ffeb51db516)
 
 # Tim Berners-Lee and the Creation of the World Wide Web
 
@@ -239,7 +239,7 @@ The World Wide Web has fundamentally changed how we live, enabling new forms of 
 
 Tim Berners-Lee continues to advocate for the Web as a free and open resource. He founded the World Wide Web Consortium (W3C) to lead the Web to its full potential and has been a vocal advocate for net neutrality, privacy, and the Web as a right.
 
-![97-978938_ultrawide-landscape-wallpaper-4k](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f67b2fb2-7115-46d5-b9ed-c7b6a5a00bba)
+![desktop-wallpaper-minimalist-ultra-wide-aesthetic-ultrawide](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/42a3182e-0351-4318-9ba9-362566e2161d)
 
 # Git: Revolutionizing Software Development
 
@@ -271,7 +271,7 @@ The launch of GitHub in 2008 further cemented Git's position as the backbone of 
 
 Today, Git is more than just a tool; it's an integral part of the software development workflow. It has enabled a culture of collaboration and sharing in the development community, leading to the rapid evolution of software projects. As technology advances, Git continues to evolve, adapting to the needs of developers and the industry.
 
-![8bit_ultrawide_mountain_scene_wallpaper_by_nevereverevr_dfygwen-fullview](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f49d62ba-93eb-4c13-95d4-f791a0744925)
+![3440x1440-anime-wallpaper-1](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/29ebcf93-d069-46b2-9971-c1777365f7fa)
 
 # Agile Software Development: A Paradigm Shift
 
