@@ -62,7 +62,7 @@ Ada foresaw the Analytical Engine's capabilities extending beyond mere number cr
 
 Ada Lovelace's contributions were not fully appreciated during her lifetime, but her visionary insights laid the foundational principles of computing and programming. Today, Ada is celebrated as a pioneering figure in the history of computer science, and her legacy is honored through various awards and initiatives promoting women in STEM fields.
 
-![mountain-lake-minimalist-wallpaper-2880x1080_89](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/dfd8bd00-84d2-4d7d-b9ba-c1829c0bf118)
+![3440x1440-anime-wallpaper-15](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/3e4adfd6-9713-4993-a510-7694e3e0ba15)
 
 # Grace Hopper: The Revolutionary Behind Computer Programming Languages
 
@@ -88,8 +88,7 @@ Beyond her technical achievements, Hopper was a tireless advocate for education 
 
 Grace Hopper's legacy is celebrated through numerous awards and honors, including the annual Grace Hopper Celebration of Women in Computing. Her work continues to inspire computer scientists worldwide, reminding us of the transformative power of technology and the importance of making it accessible to a broader audience.
 
-![3440x1440-anime-wallpaper-15](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/3e4adfd6-9713-4993-a510-7694e3e0ba15)
-
+![mountain-lake-minimalist-wallpaper-2880x1080_89](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/dfd8bd00-84d2-4d7d-b9ba-c1829c0bf118)
 
 # Alan Turing: The Architect of Modern Computing
 
@@ -116,7 +115,6 @@ Despite his contributions, Turing faced persecution for his homosexuality, a tra
 Alan Turing's vision and intellect not only helped to shape the outcome of a world war but also laid the foundations for the development of the computer and raised fundamental questions about artificial intelligence that challenge and inspire us to this day.
 
 ![3440x1440-anime-wallpaper-45](https://github.com/AlexandrosLiaskos/SWHist/assets/128935863/f46d8082-8f1f-43c6-9270-6076b0139bbe)
-
 
 # The Tale of the Creeper and the Reaper: The Dawn of Computer Viruses
 
