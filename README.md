@@ -1,4 +1,4 @@
-![8bit_ultrawide_mountain_scene_wallpaper_by_nevereverevr_dfygwen-fullview](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f49d62ba-93eb-4c13-95d4-f791a0744925)
+![SWHist Banner](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f49d62ba-93eb-4c13-95d4-f791a0744925)
 
 <table>
   <tr>
