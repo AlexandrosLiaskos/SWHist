@@ -34,10 +34,6 @@
 
 ![mountain-lake-minimalist-wallpaper-2880x1080_89](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/dfd8bd00-84d2-4d7d-b9ba-c1829c0bf118)
 
-![desktop-wallpaper-minimalist-ultra-wide-aesthetic-ultrawide](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/79e343ce-e1df-4373-8996-20345cb6afea)
-
-![desktop-wallpaper-32-9](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/7f0c25ec-23ba-4556-b16c-b9d2a9184a5d)
-
 ![97-978938_ultrawide-landscape-wallpaper-4k](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f67b2fb2-7115-46d5-b9ed-c7b6a5a00bba)
 
 ![8bit_ultrawide_mountain_scene_wallpaper_by_nevereverevr_dfygwen-fullview](https://github.com/AlexandrosLiaskos/Software_Innovations/assets/128935863/f49d62ba-93eb-4c13-95d4-f791a0744925)
